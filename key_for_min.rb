@@ -12,4 +12,3 @@ def key_for_min_value(name_hash)
 end
 return key_for_min_value
 end
-puts key_for_min_value(ikea)
