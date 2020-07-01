@@ -10,6 +10,5 @@ def key_for_min_value(name_hash)
       min_val = key
   end
 end
-return key_for_min_value
+print key_for_min_value
 end
-print key_for_min_value(hash)
